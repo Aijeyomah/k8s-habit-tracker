@@ -1,7 +1,7 @@
-client-pod.s
-client-srv.s
-mongo-pod.s
-mongo-srv.s
-server-pod.s
-server-srv.sss
-mongo-secret.yaml
+client-pod.yaml
+client-srv.yaml
+mongo-pod.yaml
+mongo-srv.yaml
+server-pod.yaml
+server-srv.yaml
+mongo-secret.yaml 
